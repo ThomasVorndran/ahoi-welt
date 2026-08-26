@@ -1,0 +1,42 @@
+# Hauptnavigation – nachempfunden dem Original-Menü von ahoi-welt.de
+main:
+  - title: blog
+    url: /blog/
+  - title: travel
+    url: /travel/
+    children:
+      - title: weltreise
+        url: /travel/weltreise/
+      - title: asien
+        url: /travel/asien/
+        children:
+          - { title: "sri lanka", url: /travel/asien/sri-lanka/ }
+          - { title: thailand,   url: /travel/asien/thailand/ }
+          - { title: myanmar,    url: /travel/asien/myanmar/ }
+          - { title: kambodscha, url: /travel/asien/kambodscha/ }
+          - { title: malaysia,   url: /travel/asien/malaysia/ }
+          - { title: vietnam,    url: /travel/asien/vietnam/ }
+          - { title: hongkong,   url: /travel/asien/hongkong/ }
+          - { title: indonesien, url: /travel/asien/indonesien/ }
+          - { title: japan,      url: /travel/asien/japan/ }
+      - title: nordamerika
+        url: /travel/nordamerika/
+        children:
+          - { title: hawaii,      url: /travel/nordamerika/hawaii/ }
+          - { title: kalifornien, url: /travel/nordamerika/kalifornien/ }
+          - { title: mexiko,      url: /travel/nordamerika/mexiko/ }
+      - title: europa
+        url: /travel/europa/
+        children:
+          - { title: italien,      url: /travel/europa/italien/ }
+          - { title: toskana,      url: /travel/europa/toskana/ }
+          - { title: griechenland, url: /travel/europa/griechenland/ }
+          - { title: island,       url: /travel/europa/island/ }
+      - title: afrika
+        url: /travel/afrika/
+        children:
+          - { title: südafrika, url: /travel/afrika/suedafrika/ }
+      - title: ozeanien
+        url: /travel/ozeanien/
+        children:
+          - { title: neukaledonien, url: /travel/ozeanien/neukaledonien/ }

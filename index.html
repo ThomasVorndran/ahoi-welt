@@ -1,0 +1,43 @@
+---
+layout: default
+---
+<div class="wrap home">
+  <section class="home-hero">
+    <h1>AHOI WELT !</h1>
+    <p class="lead">Kommt mit uns ein halbes Jahr lang auf die Reise, lauscht Geschichten und Abenteuern, erlebt mit uns Höhen und Tiefen und seht die Welt mit unseren Augen. Wenn nicht jetzt, wann dann?</p>
+  </section>
+
+  <figure class="home-figure">
+    <img src="{{ '/assets/img/i2f9d8950ece92c58.jpg' | relative_url }}" alt="Ann-Kathrin & Tom">
+  </figure>
+
+  <section class="home-section">
+    <h2>Ann-Kathrin &amp; Tom</h2>
+    <p>Genau diese Frage haben wir uns nämlich gestellt, mal kurz gecheckt wo genau wir in unserem Leben stehen, was gerade Phase ist, wie viele Geburtstage wir schon so gefeiert haben und beschlossen: wir machen das jetzt einfach!</p>
+    <p>Doch so besonders einfach sollte es gar nicht werden. Um uns unseren großen Traum erfüllen zu können, mussten wir einen riesigen Schritt aus der Komfortzone machen, quasi einen Bungee-Jump aus dem Hamsterrad.</p>
+    <p>Wir hatten nun sieben Monate Zeit unserer riesigen Vorfreude zu frönen und die Route grob zu planen, um allerlei organisatorische Hürden zu nehmen und bürokratische Hindernisse zu überwinden. Ende Dezember 2016 waren wir dann bereit uns ins Abenteuer zu stürzen und checkten mit Sack &amp; Pack für den Flug Richtung Sri Lanka ein – für uns beide das erste One-Way-Ticket unseres Lebens.</p>
+    <p><strong>Ahoi Welt, wir kommen!</strong></p>
+  </section>
+
+  <figure class="home-figure">
+    <img src="{{ '/assets/img/i6efc9dca96edc0a2.jpg' | relative_url }}" alt="Unterwegs auf großer Reise">
+  </figure>
+
+  <section class="home-latest">
+    <h2>Neueste Beiträge</h2>
+    <div class="blog-grid">
+      {% for post in site.posts limit:3 %}
+      <div class="blog-card">
+        <a href="{{ post.url | relative_url }}">
+          {% if post.hero %}<div class="thumb"><img loading="lazy" src="{{ post.hero | relative_url }}" alt="{{ post.title }}"></div>{% endif %}
+          <div class="body">
+            <span class="date">{{ post.date | date: '%-d. %B %Y' }}</span>
+            <h3>{{ post.title }}</h3>
+          </div>
+        </a>
+      </div>
+      {% endfor %}
+    </div>
+    <p style="text-align:center;margin-top:26px;"><a href="{{ '/blog/' | relative_url }}">→ Alle Beiträge im Blog</a></p>
+  </section>
+</div>

@@ -1,0 +1,205 @@
+/* ============================================================
+   AHOI WELT – maritimes Design (nachempfunden dem Original)
+   Farbwelt: Sand/Taupe, Anthrazit, Weiß, maritimes Blau
+   Schriften: "Actor" (Headlines) + "Source Sans 3" (Text)
+   ============================================================ */
+
+:root {
+  --charcoal: #282828;
+  --charcoal-soft: #3a3a3a;
+  --sand: #c5bbab;
+  --sand-light: #f6f6f6;
+  --taupe: #9c9180;
+  --accent: #4d94b9;
+  --text: #333;
+  --muted: #7e7d78;
+  --white: #fff;
+  --maxw: 1080px;
+}
+
+* { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  font-family: "Source Sans 3", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 1.7;
+  color: var(--text);
+  background: var(--white);
+}
+
+h1, h2, h3, h4, .logo-text {
+  font-family: "Actor", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: var(--charcoal);
+  letter-spacing: .02em;
+}
+
+a { color: var(--accent); text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+img { max-width: 100%; height: auto; display: block; }
+
+.wrap { max-width: var(--maxw); margin: 0 auto; padding: 0 20px; }
+.wrap-narrow { max-width: 760px; margin: 0 auto; padding: 0 20px; }
+
+/* ---------- Header ---------- */
+.site-header {
+  background: var(--white);
+  border-bottom: 1px solid #e7e3db;
+  padding: 22px 0 0;
+  position: sticky; top: 0; z-index: 100;
+}
+.header-inner { display: flex; flex-direction: column; align-items: center; }
+.logo img { max-height: 90px; width: auto; margin-bottom: 6px; }
+
+.nav-toggle {
+  display: none;
+  background: none; border: none; font-size: 26px; color: var(--charcoal);
+  cursor: pointer; position: absolute; right: 16px; top: 24px;
+}
+
+/* ---------- Navigation ---------- */
+.site-nav { width: 100%; }
+.menu {
+  list-style: none; margin: 8px 0 0; padding: 0;
+  display: flex; justify-content: center; flex-wrap: wrap;
+}
+.menu > li { position: relative; }
+.menu > li > a {
+  display: block; padding: 14px 20px;
+  color: var(--charcoal); text-transform: lowercase;
+  font-size: 17px; letter-spacing: .08em;
+}
+.menu > li > a:hover { color: var(--accent); text-decoration: none; }
+
+.submenu {
+  list-style: none; margin: 0; padding: 6px 0;
+  position: absolute; left: 0; top: 100%;
+  min-width: 200px; background: var(--charcoal);
+  box-shadow: 0 8px 24px rgba(0,0,0,.18);
+  opacity: 0; visibility: hidden; transform: translateY(8px);
+  transition: opacity .18s ease, transform .18s ease; z-index: 200;
+}
+.menu li:hover > .submenu { opacity: 1; visibility: visible; transform: translateY(0); }
+.submenu li { position: relative; }
+.submenu a {
+  display: block; padding: 10px 18px; color: #e7e3db;
+  text-transform: lowercase; letter-spacing: .06em; font-size: 15px; white-space: nowrap;
+}
+.submenu a:hover { background: var(--charcoal-soft); color: var(--white); text-decoration: none; }
+.submenu--deep { left: 100%; top: 0; background: var(--charcoal-soft); }
+
+/* ---------- Main ---------- */
+.site-main { min-height: 60vh; padding: 44px 0; }
+
+/* ---------- Home ---------- */
+.home-hero { text-align: center; padding: 10px 0 30px; }
+.home-hero h1 {
+  font-size: 60px; letter-spacing: .12em; margin: 0 0 14px; text-transform: uppercase;
+}
+.home-hero .lead {
+  max-width: 620px; margin: 0 auto; font-size: 20px; color: var(--muted); font-style: italic;
+}
+.home-figure { margin: 34px 0; }
+.home-figure img { width: 100%; border-radius: 2px; }
+.home-section { max-width: 760px; margin: 0 auto; }
+.home-section h2 { font-size: 34px; text-align: center; margin: 20px 0 18px; }
+.home-port {
+  text-align: center; font-size: 22px; color: var(--taupe);
+  margin: 40px 0 0; font-family: "Actor", sans-serif;
+}
+
+/* ---------- Post ---------- */
+.post-header { text-align: center; margin-bottom: 8px; }
+.post-title { font-size: 44px; text-transform: uppercase; letter-spacing: .06em; margin: 0 0 8px; }
+.post-meta { color: var(--muted); font-size: 15px; letter-spacing: .05em; text-transform: uppercase; }
+.post-meta .sep { margin: 0 6px; }
+.post-hero { margin: 26px 0 30px; }
+.post-hero img { width: 100%; }
+.post-content { font-size: 18px; }
+.post-content p { margin: 0 0 1.3em; }
+.post-content img { margin: 26px auto; }
+.post-content figure { margin: 26px 0; }
+.post-content figcaption { text-align: center; color: var(--muted); font-size: 14px; margin-top: 6px; }
+.post-tags { margin-top: 34px; text-align: center; }
+.tag { display: inline-block; color: var(--accent); font-size: 14px; letter-spacing: .05em; }
+.post-nav { display: flex; justify-content: space-between; gap: 16px; margin-top: 40px;
+  border-top: 1px solid #e7e3db; padding-top: 20px; font-size: 15px; }
+.post-nav .next { margin-left: auto; text-align: right; }
+
+/* ---------- Blog-Liste ---------- */
+.blog-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 28px; }
+.blog-card { background: var(--sand-light); border: 1px solid #e7e3db; overflow: hidden; }
+.blog-card a { color: inherit; }
+.blog-card .thumb { aspect-ratio: 3/2; overflow: hidden; background: var(--sand); }
+.blog-card .thumb img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.blog-card:hover .thumb img { transform: scale(1.05); }
+.blog-card .body { padding: 16px 18px 20px; }
+.blog-card h3 { font-size: 22px; margin: 0 0 6px; text-transform: uppercase; letter-spacing: .04em; }
+.blog-card .date { color: var(--muted); font-size: 13px; text-transform: uppercase; letter-spacing: .06em; }
+.blog-card .excerpt { margin: 10px 0 0; color: #555; font-size: 16px; }
+
+/* ---------- Country / Travel ---------- */
+.country-header { text-align: center; margin-bottom: 22px; }
+.country-title { font-size: 46px; text-transform: uppercase; letter-spacing: .06em; }
+.country-subtitle { color: var(--muted); font-style: italic; }
+.country-intro { margin: 0 auto 30px; }
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 12px; }
+.gallery-item { display: block; aspect-ratio: 1/1; overflow: hidden; background: var(--sand); }
+.gallery-item img { width: 100%; height: 100%; object-fit: cover; transition: transform .4s ease; }
+.gallery-item:hover img { transform: scale(1.06); }
+.country-posts { margin-top: 44px; }
+.country-posts h2 { font-size: 28px; }
+.post-list-simple { list-style: none; padding: 0; }
+.post-list-simple li { display: flex; justify-content: space-between; gap: 12px;
+  padding: 10px 0; border-bottom: 1px solid #eee; }
+.post-list-simple .date { color: var(--muted); font-size: 14px; white-space: nowrap; }
+
+/* Travel-Übersicht: Kontinent-Karten */
+.continent-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 20px; }
+.continent-card { position: relative; aspect-ratio: 3/2; overflow: hidden; background: var(--charcoal); }
+.continent-card img { width: 100%; height: 100%; object-fit: cover; opacity: .85; transition: transform .4s ease, opacity .3s; }
+.continent-card:hover img { transform: scale(1.06); opacity: 1; }
+.continent-card .label {
+  position: absolute; inset: 0; display: flex; align-items: center; justify-content: center;
+  color: #fff; font-family: "Actor", sans-serif; font-size: 30px; text-transform: uppercase;
+  letter-spacing: .1em; text-shadow: 0 2px 12px rgba(0,0,0,.6); background: rgba(0,0,0,.15);
+}
+.continent-card:hover .label { text-decoration: none; }
+
+/* ---------- Impressum ---------- */
+.page-content h2 { margin-top: 1.6em; font-size: 26px; }
+.page-content h3 { margin-top: 1.2em; font-size: 20px; }
+
+/* ---------- Footer ---------- */
+.site-footer { background: var(--charcoal); color: var(--sand); padding: 46px 0; text-align: center; margin-top: 40px; }
+.footer-anchor { width: 34px; height: auto; margin: 0 auto 14px; opacity: .8; filter: invert(88%) sepia(9%) saturate(400%) hue-rotate(3deg); }
+.home-port + .site-footer, .site-footer .home-port { color: var(--sand); }
+.site-footer .home-port { font-size: 19px; margin: 0 0 18px; }
+.footer-nav { margin: 8px 0; font-size: 14px; letter-spacing: .06em; }
+.footer-nav a { color: var(--sand); }
+.footer-nav a:hover { color: var(--white); }
+.copyright { color: var(--taupe); font-size: 13px; letter-spacing: .1em; margin-top: 14px; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 800px) {
+  .nav-toggle { display: block; }
+  .site-nav { display: none; }
+  body.nav-open .site-nav { display: block; }
+  .menu { flex-direction: column; align-items: stretch; }
+  .menu > li > a { text-align: center; border-top: 1px solid #eee; }
+  .submenu {
+    position: static; opacity: 1; visibility: visible; transform: none;
+    display: none; box-shadow: none; background: var(--sand-light); min-width: 0;
+  }
+  .menu li.open > .submenu { display: block; }
+  .submenu a { color: var(--charcoal); text-align: center; }
+  .submenu--deep { left: 0; }
+  .home-hero h1 { font-size: 40px; }
+  .post-title, .country-title { font-size: 32px; }
+}
