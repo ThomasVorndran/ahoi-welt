@@ -3,7 +3,7 @@ layout: post
 title: "NEWSFLASH"
 date: 2017-03-02
 author: "AK & Tom"
-hero: "/assets/img/i4417420cb50e883a.jpg"
+hero: "/assets/img/i5f35cf39ef664ed6.png"
 ---
 
 Daher kommt hier in Form eines "Newsflash" (wer mich kennt wird schmunzeln) ein kurzes Update für euch: Wir sind mit dem Blog sage und schreibe zwölf (!) Stationen im Verzug. Zwischenzeitlich waren wir auf einer kleinen Insel in Thailand und haben unsere lieben Freund Onno & Andreas getroffen und eine fantastische Zeit mit beiden samt Family verbracht! Wir sind abenteuerlich mit dem Longtail-Boot über das Meer nach Myanmar eingereist, waren in einem traumhaften Archipel schnorcheln und haben auf einer Insel gezeltet. Wir haben die architektonisch beeindruckende Stadt Yangon erkundet, sind mit Rollern durch Bagan geflitzt und nach der ultimativen Tempel-Überdosis haben wir uns in den Bergen Myanmars erholt, haben einen Ausflug zu einem einzigartigen Weingut gemacht und einen Kochkurs in einem schwimmenden Dorf auf Myanmars größten See.
@@ -19,3 +19,7 @@ Außerdem haben wir unserem Blog eine neue Kategorie hinzu gefügt. Unter dem ne
 Viele Grüße von uns und bis ganz bald,
 
 Ann-Kathrin & Tom
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i4417420cb50e883a.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i4417420cb50e883a.jpg" | relative_url }}" alt=""></a>
+</div>

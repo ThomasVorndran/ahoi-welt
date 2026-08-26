@@ -3,7 +3,7 @@ layout: post
 title: "AHOI COLOMBO!"
 date: 2016-12-31
 author: "AK & Tom"
-hero: "/assets/img/id923afa537490f09.jpg"
+hero: "/assets/img/i4d7356929266f046.png"
 tags: [srilanka, colombo]
 ---
 
@@ -64,3 +64,33 @@ Voll gefuttert und glücklich fallen wir ins Bett – das waren sie also, die er
 Und das ist er nun, der erste Blogeintrag von uns. Gerade noch so in 2016 verfasst – um uns herum schon fleißiges Gewimmel zur Organisation der großen Silvestertafel für alle hier im Guesthouse. Es gibt ein tolles Menü mit Seafood und später Feuerwerk am Strand. Doch dazu irgendwann mehr.
 
 Euch allen einen guten Rutsch & alles Liebe für's neue Jahr! Lasst es krachen!
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i75a123817127c030.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i75a123817127c030.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id923afa537490f09.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id923afa537490f09.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i64cfc79dab74ace1.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i64cfc79dab74ace1.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i98dba3e9c4ebe1bc.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i98dba3e9c4ebe1bc.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib1e28803e7c59ef7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib1e28803e7c59ef7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i8c4ff597557c8696.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i8c4ff597557c8696.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3a4f0cd36727364e.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3a4f0cd36727364e.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ifab9ed75c949872f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ifab9ed75c949872f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i42163324218202ee.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i42163324218202ee.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id32daeeec4b89d62.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id32daeeec4b89d62.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i22d5c2ae93185bcc.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i22d5c2ae93185bcc.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if381ddf9abc21c26.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if381ddf9abc21c26.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i54a105f213c1ce7f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i54a105f213c1ce7f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i44f8a8aebbbfa50a.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i44f8a8aebbbfa50a.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib43936a46da0c9c8.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib43936a46da0c9c8.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i6831afb2f1a1c7d4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i6831afb2f1a1c7d4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia21fbbc1dce8589e.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia21fbbc1dce8589e.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i97b0880ef0f0970e.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i97b0880ef0f0970e.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ieec3dbe237f1c63f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ieec3dbe237f1c63f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iebb130928abefe83.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iebb130928abefe83.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id7772e8bbf0048d5.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id7772e8bbf0048d5.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i8de7f4a9e1606f61.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i8de7f4a9e1606f61.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i103f2eaccce92abb.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i103f2eaccce92abb.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i64070307605c29ef.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i64070307605c29ef.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9f3569f78abb5b0d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9f3569f78abb5b0d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icbe9769fbe56085c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icbe9769fbe56085c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i89632de84f852a8e.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i89632de84f852a8e.jpg" | relative_url }}" alt=""></a>
+</div>

@@ -3,7 +3,7 @@ layout: post
 title: "AHOI BANGKOK!"
 date: 2017-02-01
 author: "AK & Tom"
-hero: "/assets/img/i79d44eba06278b63.jpg"
+hero: "/assets/img/ib40c46b7472f7782.png"
 tags: [thailand, bangkok]
 ---
 
@@ -50,3 +50,57 @@ Die Küche befindet sich, wie sollte es auch anders sein, direkt auf dem Bürger
 Unseren letzten Tag in Bangkok haben wir im Hostel verbracht und gnadenlos das gute WiFi zur Reiseplanung und für den Blog ausgenutzt bis abends unser Bus fuhr: Nachtbus nach Ranong! Premiere! Wir sind schon auf den Zustand der Straßen gespannt und ob wir wohl schlafen können?
 
 Nächster Halt: Koh Phayam!
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i79d44eba06278b63.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i79d44eba06278b63.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i57e39094a93e1b29.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i57e39094a93e1b29.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if7766f1f7e4cedcd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if7766f1f7e4cedcd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i12ad88a06b3dcb55.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i12ad88a06b3dcb55.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ife0c75654de8799c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ife0c75654de8799c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i63746e567a7d22da.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i63746e567a7d22da.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i7b37e5d71e902699.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i7b37e5d71e902699.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ibbe97d541d23a962.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ibbe97d541d23a962.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i6f698af5216bbce5.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i6f698af5216bbce5.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3b7ba3835fe3beb5.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3b7ba3835fe3beb5.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9921acdd1e156838.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9921acdd1e156838.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ief77fe4e811e3908.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ief77fe4e811e3908.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i69093c4da38b5f9a.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i69093c4da38b5f9a.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i6e8d9f22ee07ebea.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i6e8d9f22ee07ebea.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie8f9c115bae31e84.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie8f9c115bae31e84.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i0e8e60155811b2c4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i0e8e60155811b2c4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie910f405c43ee827.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie910f405c43ee827.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib438dabf36c3d2bb.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib438dabf36c3d2bb.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia50d83dc21957ee1.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia50d83dc21957ee1.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ifaf02e8f6044cc1d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ifaf02e8f6044cc1d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i4d19ed4e422b6151.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i4d19ed4e422b6151.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i1dc72eb7a6db165e.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i1dc72eb7a6db165e.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie349928c4455e0e0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie349928c4455e0e0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i0b83c66814335d28.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i0b83c66814335d28.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i11de69aef9763d31.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i11de69aef9763d31.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i91d13dba97894450.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i91d13dba97894450.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icabc437fa8a64997.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icabc437fa8a64997.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib5c9a35cbc61ddee.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib5c9a35cbc61ddee.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ida71c870855d92b0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ida71c870855d92b0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i294f149719823620.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i294f149719823620.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id607d2ab5cfb8e6f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id607d2ab5cfb8e6f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia6fc3f97b26872b1.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia6fc3f97b26872b1.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia4d7c1515ce3aa8d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia4d7c1515ce3aa8d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9092a3c89af09d81.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9092a3c89af09d81.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i750f577e3d918da7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i750f577e3d918da7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i67102cb061e8406d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i67102cb061e8406d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ide6382262b98cbe3.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ide6382262b98cbe3.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i228f602cfa29c1dd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i228f602cfa29c1dd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie549ab00ecf2ab72.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie549ab00ecf2ab72.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iec890efbcdaca029.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iec890efbcdaca029.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i44144cbcafb37db7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i44144cbcafb37db7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i10c83b1d04406eb7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i10c83b1d04406eb7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i718cd4dda3333ee2.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i718cd4dda3333ee2.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie5a87c948656af61.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie5a87c948656af61.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/idfbc3f1e5b60d88d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/idfbc3f1e5b60d88d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id4f4f0de96ad66d9.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id4f4f0de96ad66d9.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i58ace4772bea4020.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i58ace4772bea4020.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i437b67cff273ae77.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i437b67cff273ae77.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i67e876ab6a794036.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i67e876ab6a794036.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9ff715ae0bb1c6c4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9ff715ae0bb1c6c4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id8a4281fa432b670.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id8a4281fa432b670.jpg" | relative_url }}" alt=""></a>
+</div>

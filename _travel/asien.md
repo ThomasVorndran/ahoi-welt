@@ -33,11 +33,11 @@ permalink: /travel/asien/
     <span class="label">Vietnam</span>
   </a>
   <a class="continent-card" href="{{ "/travel/asien/hongkong/" | relative_url }}">
-    <img alt="">
+    
     <span class="label">Hongkong</span>
   </a>
   <a class="continent-card" href="{{ "/travel/asien/indonesien/" | relative_url }}">
-    <img alt="">
+    <img loading="lazy" src="{{ "/assets/img/i1ca8349cf5984af5.jpg" | relative_url }}" alt="Indonesien">
     <span class="label">Indonesien</span>
   </a>
   <a class="continent-card" href="{{ "/travel/asien/japan/" | relative_url }}">

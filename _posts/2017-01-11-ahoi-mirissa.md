@@ -3,7 +3,7 @@ layout: post
 title: "AHOI MIRISSA!"
 date: 2017-01-11
 author: "AK & Tom"
-hero: "/assets/img/i54fb077f899c68ae.jpg"
+hero: "/assets/img/iada9884eace3fec6.png"
 tags: [srilanka, mirissa]
 ---
 
@@ -24,3 +24,32 @@ Unser „Mirissa-Mysterium“ weshalb ein paar Häuser weiter von unserem Homest
 Um unseren Strandvergleich entlang der Küste weiter fortzusetzen, sieht die Reiseplanung als nächsten Halt „Tangalle“ vor, von dem alle so schwärmen – und nachdem wir uns jetzt schon so sehr an das Zugfahren gewöhnt hatten, sollte als nächstes unsere erste Busfahrt folgen, denn die Schienen waren hier zu Ende. Es bleibt also spannend...
 
 Special credits to: Miriam & Andreas aus Luzern
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i54fb077f899c68ae.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i54fb077f899c68ae.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i278d7e49a1cd7226.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i278d7e49a1cd7226.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2035be6fdba54ebf.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2035be6fdba54ebf.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ic4913a3e422ebcf5.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ic4913a3e422ebcf5.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib12ad036bb5a3a79.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib12ad036bb5a3a79.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icac6c4a155ba7f4b.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icac6c4a155ba7f4b.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i40d90d6d07b5ac19.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i40d90d6d07b5ac19.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i8ac89910091ca2b8.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i8ac89910091ca2b8.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2d5fc3a90b49fcd0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2d5fc3a90b49fcd0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i03b9e958ff9225ab.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i03b9e958ff9225ab.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ice4d8166b991cb17.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ice4d8166b991cb17.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i32bd3ec2072109d2.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i32bd3ec2072109d2.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if9c4c9dc56f4b234.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if9c4c9dc56f4b234.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if564bab34d7cddfc.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if564bab34d7cddfc.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie79a7490f7a7c204.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie79a7490f7a7c204.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ic801390fe143a261.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ic801390fe143a261.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i93e0809388fefa31.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i93e0809388fefa31.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib6afae524248fed7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib6afae524248fed7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i1403d6278d77a7f3.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i1403d6278d77a7f3.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if563d32ecbe079a7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if563d32ecbe079a7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9f5bca7495578ea4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9f5bca7495578ea4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i7c2380abdce3125a.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i7c2380abdce3125a.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iac537449a69119ba.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iac537449a69119ba.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i541c11b73ac61a62.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i541c11b73ac61a62.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i26a70c8c2ab76ce7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i26a70c8c2ab76ce7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i07c1499e15d4557b.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i07c1499e15d4557b.jpg" | relative_url }}" alt=""></a>
+</div>

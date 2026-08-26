@@ -3,7 +3,7 @@ layout: post
 title: "AHOI BERUWALA!"
 date: 2017-01-05
 author: "AK & Tom"
-hero: "/assets/img/i2a6bccdacfca1e22.jpg"
+hero: "/assets/img/i9630d5023599f7c9.png"
 tags: [srilanka, beruwala]
 ---
 
@@ -46,3 +46,52 @@ Wie im Flug vergingen so die Tage und obwohl wir die behütete, saubere und sooo
 Es folgt also ein neuer Zug, ein neuer Ort, eine neue Unterkunft...
 
 Special Credits to: Claire, Paulina, Carlotta & Amal von Amuura, Judith aus Zürich & Yvonne aus Winterthur, Jana & „Magik David“ aus Tschechien, Miriam & Andreas aus Luzern, Yaseen den Tuk Tuk-Fahrer, Madu die beste Köchin, René & Saskia aus München, Kevin aus Darmstadt, Emma & Eric aus Bern und die beiden Melbourneianer!
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i2a6bccdacfca1e22.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2a6bccdacfca1e22.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3efb73d1d1a886bd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3efb73d1d1a886bd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iafde2bd747e3b74b.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iafde2bd747e3b74b.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia196384b57884265.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia196384b57884265.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i98087d359be6b0e4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i98087d359be6b0e4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ic9c04fd01b4deb51.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ic9c04fd01b4deb51.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ic8e473dae8855856.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ic8e473dae8855856.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib5f0f9b56df3b5bd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib5f0f9b56df3b5bd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i0bb83d884ce6e728.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i0bb83d884ce6e728.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i7a82073d84279ce9.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i7a82073d84279ce9.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ied0124a9c7e24770.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ied0124a9c7e24770.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ibb0ff950eb31323c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ibb0ff950eb31323c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib3825beab41bcb1f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib3825beab41bcb1f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id3b9b2fc523d8558.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id3b9b2fc523d8558.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i53caac5301d8de6f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i53caac5301d8de6f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ia548018a3ccac980.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ia548018a3ccac980.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3556abb4d2f63ff0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3556abb4d2f63ff0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3812528acfcaba99.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3812528acfcaba99.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i666db56c561272cd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i666db56c561272cd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i4ddaadc2497bc3c2.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i4ddaadc2497bc3c2.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i913fa2a3d93cd419.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i913fa2a3d93cd419.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i83db74f86dc45385.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i83db74f86dc45385.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id07aff90e47217cf.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id07aff90e47217cf.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i9be3ab208cddab42.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i9be3ab208cddab42.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icf05d9c3186c0eca.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icf05d9c3186c0eca.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2aa547d6f93dac76.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2aa547d6f93dac76.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if0aa735a2555d3c8.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if0aa735a2555d3c8.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib9f4cb97d0d16a0d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib9f4cb97d0d16a0d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i8d12e93b30d4183f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i8d12e93b30d4183f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i94a8f3aaeb65a19b.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i94a8f3aaeb65a19b.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i5e931f3e6ae79a1f.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i5e931f3e6ae79a1f.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib6d34d88e1aec046.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib6d34d88e1aec046.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i850468d6e95dadbf.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i850468d6e95dadbf.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/idfbff8ad92975b31.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/idfbff8ad92975b31.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ied103dfa516d36fd.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ied103dfa516d36fd.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ifdb7d7657c735f57.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ifdb7d7657c735f57.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib3cba5a54b42e3f9.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib3cba5a54b42e3f9.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i406101c63f5b61cf.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i406101c63f5b61cf.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i487848003375fbc2.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i487848003375fbc2.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i298f44decfaf9c7d.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i298f44decfaf9c7d.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i1c2768bcea08a455.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i1c2768bcea08a455.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2f5c139a55e4ee56.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2f5c139a55e4ee56.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i3eac68d1fecb5cc3.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i3eac68d1fecb5cc3.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icdb16bb4161f12fe.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icdb16bb4161f12fe.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if018b8fd2ec46de7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if018b8fd2ec46de7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i13e233af921628be.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i13e233af921628be.jpg" | relative_url }}" alt=""></a>
+</div>

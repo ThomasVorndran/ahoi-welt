@@ -172,6 +172,16 @@ img { max-width: 100%; height: auto; display: block; }
 }
 .continent-card:hover .label { text-decoration: none; }
 
+/* Travel-Übersicht: originale Kontinent-Tiles (runde Buttons) */
+.continent-tiles {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 24px; justify-items: center; align-items: center; margin-top: 10px;
+}
+.continent-tiles .tile { display: block; width: 100%; max-width: 260px; }
+.continent-tiles .tile img {
+  width: 100%; height: auto; transition: transform .35s ease; }
+.continent-tiles .tile:hover img { transform: scale(1.05); }
+
 /* ---------- Impressum ---------- */
 .page-content h2 { margin-top: 1.6em; font-size: 26px; }
 .page-content h3 { margin-top: 1.2em; font-size: 20px; }

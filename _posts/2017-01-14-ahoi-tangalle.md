@@ -3,7 +3,7 @@ layout: post
 title: "AHOI TANGALLE!"
 date: 2017-01-14
 author: "AK & Tom"
-hero: "/assets/img/i846ff734c2040cb0.jpg"
+hero: "/assets/img/i7b27dc81238d1f49.png"
 tags: [srilanka, tangalle]
 ---
 
@@ -30,3 +30,32 @@ Wir haben die Zeit sehr genossen, sind endlich mal ein wenig zur Ruhe gekommen, 
 Es ist so wahnsinnig positiv auf Reisen zu sein – und gleichzeitig erleben wir auch negative Stimmungen. Wenn mir merken, dass das Nölpferd (danke Svenja ;-) mal wieder mit reist, der viertausendste TukTuk-Fahrer auf 1 km Strecke seine Dienste anbietet, das Bettlaken hätte sauberer sein können oder Tom's T-Shirt schon wieder durchgeschwitzt ist, das WiFi nicht geht, oder das Essen mal wieder zu scharf ist, der Weg zu steil, das Rucksack zu schwer, der Stich am jucken. Es ist also noch ein gutes Stückchen auf der Lernkurve zu gehen, Dinge auszuhalten, sich mal abzufinden und das Positive in jeder Situation zu sehen. Eine Gemütseinstellung an der wir arbeiten. Reisen ist nicht immer nur Urlaub... in diesem Sinne: auf geht’s ins Inland – nächster Halt: Safari!
 
 Special credits to: Jule & André aus Münster, Moritz & Kasia „aus der Nähe von Düsseldorf“, Julian aus Wiesbaden, Kerstin aus Regensburg und Florian & Jelena aus Nürnberg sowie die gesamte Familie um Papa Chandana De Silva!
+
+<div class="gallery">
+  <a class="gallery-item" href="{{ "/assets/img/i846ff734c2040cb0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i846ff734c2040cb0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i6cfbfa500af9c3c4.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i6cfbfa500af9c3c4.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i013bcd1ade095785.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i013bcd1ade095785.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if7486cea7c84ffd0.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if7486cea7c84ffd0.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i1bc017888e9f427c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i1bc017888e9f427c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i4b0ce562ddeb54d1.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i4b0ce562ddeb54d1.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib19751bdb5309849.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib19751bdb5309849.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i7614bd8743198e90.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i7614bd8743198e90.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icb49137a16f9bcad.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icb49137a16f9bcad.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i027cbcb9087a5af7.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i027cbcb9087a5af7.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i47e014d88e9cc0ee.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i47e014d88e9cc0ee.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ib0f1a984300f7876.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ib0f1a984300f7876.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/ie84888c5e07aac41.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/ie84888c5e07aac41.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id48b1c9dfb4456ef.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id48b1c9dfb4456ef.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iee7b990935598020.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iee7b990935598020.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/icd93be78bd155296.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/icd93be78bd155296.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i201536b7e0949b8c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i201536b7e0949b8c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2a144c87a19f0e59.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2a144c87a19f0e59.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i26af02be2e28aa25.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i26af02be2e28aa25.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i38a2a3ec4a00d21c.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i38a2a3ec4a00d21c.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/iccacb0fa27481980.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/iccacb0fa27481980.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i7339691feb49ff74.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i7339691feb49ff74.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/id91659b18a603941.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/id91659b18a603941.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i2ef6f5db4940c392.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i2ef6f5db4940c392.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/i5bfa93aac8ec7c3b.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/i5bfa93aac8ec7c3b.jpg" | relative_url }}" alt=""></a>
+  <a class="gallery-item" href="{{ "/assets/img/if0b5f98ab770b1d9.jpg" | relative_url }}"><img loading="lazy" src="{{ "/assets/img/if0b5f98ab770b1d9.jpg" | relative_url }}" alt=""></a>
+</div>

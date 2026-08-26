@@ -17,7 +17,7 @@ permalink: /travel/nordamerika/
     <span class="label">Kalifornien</span>
   </a>
   <a class="continent-card" href="{{ "/travel/nordamerika/mexiko/" | relative_url }}">
-    <img alt="">
+    
     <span class="label">Mexiko</span>
   </a>
   </div>

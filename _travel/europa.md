@@ -9,7 +9,7 @@ permalink: /travel/europa/
   </header>
   <div class="continent-grid">
   <a class="continent-card" href="{{ "/travel/europa/italien/" | relative_url }}">
-    <img alt="">
+    
     <span class="label">Italien</span>
   </a>
   <a class="continent-card" href="{{ "/travel/europa/toskana/" | relative_url }}">
@@ -17,7 +17,7 @@ permalink: /travel/europa/
     <span class="label">Toskana</span>
   </a>
   <a class="continent-card" href="{{ "/travel/europa/griechenland/" | relative_url }}">
-    <img alt="">
+    
     <span class="label">Griechenland</span>
   </a>
   <a class="continent-card" href="{{ "/travel/europa/island/" | relative_url }}">
