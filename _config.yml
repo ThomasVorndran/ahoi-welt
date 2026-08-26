@@ -23,9 +23,9 @@ email: ""
 description: >- # this means to ignore newlines until "baseurl:"
   Ahoi Welt – meine mit Jekyll gebaute Webseite, gehostet auf GitHub Pages.
 baseurl: "/ahoi-welt" # der Unterpfad der Seite (= Repo-Name)
-url: "" # wird auf https://<github-user>.github.io gesetzt
+url: "https://ThomasVorndran.github.io" # Basis-Host der Seite
 twitter_username: ""
-github_username: ""
+github_username: "ThomasVorndran"
 
 # Build settings
 theme: minima
